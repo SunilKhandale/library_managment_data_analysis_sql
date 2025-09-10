@@ -10,6 +10,8 @@
 ## project struture
 ![library er diagram](https://github.com/SunilKhandale/library_managment_data_analysis_sql/blob/main/Screenshot%20(48).png)
 ## database and table creation
+
+## schema
 '''sql
 create database lib;
 use lib;
