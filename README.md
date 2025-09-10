@@ -8,4 +8,4 @@
 4. Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
 ## project struture
-![library er diagram]()
+![library er diagram](https://github.com/SunilKhandale/library_managment_data_analysis_sql/blob/main/Screenshot%20(48).png)
