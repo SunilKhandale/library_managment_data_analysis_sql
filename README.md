@@ -12,7 +12,7 @@
 ## database and table creation
 
 ## schema
-'''sql
+```sql
 create database lib;
 use lib;
 
@@ -77,4 +77,4 @@ return_date date,
 return_book_isbn varchar(30)
 );
 select count(*) from return_status;
-...
+```
